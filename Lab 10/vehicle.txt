@@ -1,0 +1,15 @@
+Sedan 7.5
+SUV 12.8
+Compact 6.2
+Sedan 8.1
+Truck 15.5
+SUV 13.2
+Compact 5.9
+Sedan 7.8
+Truck 16.2
+Hybrid 4.3
+Electric 0.0
+Sedan 7.2
+SUV 12.5
+Hybrid 4.1
+Compact 6.5

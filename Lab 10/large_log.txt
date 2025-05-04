@@ -1,0 +1,15 @@
+2024-05-01 08:00:01 INFO: System startup
+2024-05-01 08:01:15 INFO: User login successful: admin
+2024-05-01 08:05:22 WARNING: High memory usage detected (85%)
+2024-05-01 08:10:35 INFO: Backup process started
+2024-05-01 08:15:42 ERROR: Failed to connect to database server
+2024-05-01 08:20:56 INFO: Email notification service running
+2024-05-01 08:25:03 DEBUG: Processing batch job #1242
+2024-05-01 08:30:18 INFO: Cache cleared successfully
+2024-05-01 08:35:27 WARNING: Slow query detected (query id: 58721)
+2024-05-01 08:40:39 INFO: User logout: admin
+2024-05-01 08:45:44 ERROR: File upload failed: insufficient permissions
+2024-05-01 08:50:51 INFO: Scheduled maintenance started
+2024-05-01 08:55:12 DEBUG: API request from 192.168.1.105
+2024-05-01 09:00:25 INFO: System status check: all services operational
+2024-05-01 09:05:33 ERROR: Unable to send email: SMTP connection refused

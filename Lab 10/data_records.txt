@@ -1,0 +1,10 @@
+2024-01-15,Groceries,125.50
+2024-01-18,Utilities,89.75
+2024-01-22,Entertainment,45.20
+2024-01-25,Transportation,35.00
+2024-01-28,Dining,72.80
+2024-02-03,Healthcare,150.25
+2024-02-08,Groceries,98.45
+2024-02-12,Electronics,275.99
+2024-02-15,Clothing,120.30
+2024-02-20,Utilities,95.50
